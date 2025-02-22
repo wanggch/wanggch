@@ -6,6 +6,6 @@
 
 邮箱：wgc1220@gmail.com
 
-公众号：
+公众号：Java小成
 
 ![公众号](http://img.ddcherry.cn/2025/02/22/qrcode_for_java_xiaocheng.jpg)
