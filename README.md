@@ -1,13 +1,6 @@
-## 🌟 个人博客
+## 🌟 关于我
 
-博客地址：[http://www.ddcherry.cn/](http://www.ddcherry.cn/)  
-掘金：[https://juejin.cn/user/3614849960783160](https://juejin.cn/user/3614849960783160)  
-邮箱：wgc1220@gmail.com  
-公众号：Java小成  
-
-![公众号](http://img.ddcherry.cn/2025/02/22/qrcode_for_java_xiaocheng.jpg)
-
-## 🔧 Tech Stack
+大家好，我是**汪小成**。
 
 <div align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -17,6 +10,13 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
 </div>
+
+博客地址：[http://www.ddcherry.cn/](http://www.ddcherry.cn/)  
+掘金：[https://juejin.cn/user/3614849960783160](https://juejin.cn/user/3614849960783160)  
+邮箱：wgc1220@gmail.com  
+公众号：Java小成  
+
+![公众号](http://img.ddcherry.cn/2025/02/22/qrcode_for_java_xiaocheng.jpg)
 
 <div style="display: flex;justify-content: space-between;">
   <img src="./img/coding.gif" alt="Night Coding" height="180px" />
@@ -29,9 +29,3 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=wanggch&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanggch&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=wanggch&theme=tokyonight&hide_border=true" />
-</p>
