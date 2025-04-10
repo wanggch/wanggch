@@ -7,7 +7,7 @@
 邮箱：wgc1220@gmail.com  
 公众号：Java小成  
 
-扫码关注公众号：
+扫码关注公众号👇：  
 ![公众号](http://img.ddcherry.cn/2025/02/22/qrcode_for_java_xiaocheng.jpg)
 
 <div style="display: flex;justify-content: space-between;">
