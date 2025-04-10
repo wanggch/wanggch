@@ -7,8 +7,6 @@
 
 ![公众号](http://img.ddcherry.cn/2025/02/22/qrcode_for_java_xiaocheng.jpg)
 
----
-
 ## 🔧 Tech Stack
 
 <div align="center">
@@ -20,7 +18,10 @@
   <img src="https://img.shields.io/badge/Vue.js-42b883?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
 </div>
 
----
+<div style="display: flex;justify-content: space-between;">
+  <img src="./img/coding.gif" alt="Night Coding" height="180px" />
+  <img src="./img/fix_bug.gif" alt="Daily bug fix" height="180px" />
+</div>
 
 ## 📊 GitHub Stats
 
@@ -28,8 +29,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=wanggch&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wanggch&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
-
----
 
 ## 🔥 GitHub Streak
 
