@@ -10,11 +10,6 @@
 扫码关注公众号👇：  
 ![公众号](http://img.ddcherry.cn/2025/02/22/qrcode_for_java_xiaocheng.jpg)
 
-<div style="display: flex;justify-content: space-between;">
-  <img src="./img/coding.gif" alt="Night Coding" height="180px" />
-  <img src="./img/fix_bug.gif" alt="Daily bug fix" height="180px" />
-</div>
-
 ### 📊 GitHub Stats
 
 <div align="center">
